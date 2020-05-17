@@ -10,7 +10,7 @@ namespace Andrea.Base
     /// 
     /// </summary>
     [Serializable]
-    public class aEnumStyle
+    public class ArchStyle
     {
         public enum Design { modern, rustic};
         public enum Structure { concrete, wood};
